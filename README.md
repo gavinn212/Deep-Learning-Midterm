@@ -63,3 +63,11 @@ This project includes several Jupyter Notebook files that document the different
     - Employed a different prompt format.
     - Consolidated all steps (from environment setup to submission file generation) into a single code cell for easy execution and reproducibility.
 - **Objective:** To train on a larger scale and serve as a final, one-click runnable solution.
+
+## Model Weights
+
+The link to the trained model weights can be found in the `ModelWeight_Link.md` file.
+
+## Final Submission
+
+The final submission file submitted to Kaggle is `submission 0.83.csv`, which achieved a score of 0.83 on the competition leaderboard.
